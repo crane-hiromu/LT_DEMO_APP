@@ -1,0 +1,4 @@
+
+github "SVProgressHUD/SVProgressHUD"
+github "Alamofire/Alamofire"
+github "kean/Nuke" ~> 7.0
