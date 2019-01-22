@@ -44,3 +44,9 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+# Swift Package Manager
+.build/
+
+# Carthage
+Carthage/Build
+Carthage/Checkouts
